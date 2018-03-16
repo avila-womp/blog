@@ -1,0 +1,3 @@
+        <div on="tap:AMP.setState({selectedSlide: {currSelected: {slide: '5'}, prevSelected: {slide: '4'}}})" role="option" tabindex="0">
+      tap on me to add 5
+             </div>
